@@ -1,0 +1,1 @@
+this code organizes a text file into a dictionary. then, seeing how many entries, creates a list of values that would be the last lines of the pyrimid. Then, decode(my_dict,keys) returns a string of the decoded message which is "opposite sun rain think ocean to winter wild it ready buy card possible would electric stay post paragraph produce state our compare touch possible"
